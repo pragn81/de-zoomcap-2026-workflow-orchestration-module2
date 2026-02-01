@@ -1,2 +1,2 @@
-# docker-workshop
-Workshop Codespaces
+# Workshop Orchestration
+Workshop Orchestration with Kestra

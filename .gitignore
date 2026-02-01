@@ -208,3 +208,7 @@ __marimo__/
 
 # Parquet
 *.parquet
+
+# .env files
+.env
+.env_encoded
